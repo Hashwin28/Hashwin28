@@ -16,7 +16,7 @@
 
 <table>
 <tr>
-<td valign="top" width="60%">
+<td valign="top" width="50%">
 
 ```python
 class Hashwin:
@@ -33,7 +33,7 @@ class Hashwin:
 ```
 
 </td>
-<td valign="top" align="center" width="40%">
+<td valign="top" align="center" width="50%">
 
 <img src="./assets/about-side.png" width="300" />
 
