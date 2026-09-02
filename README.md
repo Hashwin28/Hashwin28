@@ -47,51 +47,31 @@ class Hashwin:
 
 ## Stack & Tools
 
-```sh
-hashwin@github:~$ cd Languages
-hashwin@github:~/Languages$ ls
-```
-
+#### Languages
 <p>
   <img src="https://skillicons.dev/icons?i=py,cpp,java&theme=dark" />
 </p>
 
-```sh
-hashwin@github:~/Languages$ cd ../Frontend
-hashwin@github:~/Frontend$ ls
-```
-
+#### Frontend
 <p>
   <img src="https://skillicons.dev/icons?i=html,css&theme=dark" />
 </p>
 
-```sh
-hashwin@github:~/Frontend$ cd ../Backend
-hashwin@github:~/Backend$ ls
-```
-
+#### Backend
 <p>
   <img src="https://skillicons.dev/icons?i=fastapi,flask&theme=dark" />
   &nbsp;
   <img src="https://img.shields.io/badge/REST%20APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white" height="48" />
 </p>
 
-```sh
-hashwin@github:~/Backend$ cd ../Databases
-hashwin@github:~/Databases$ ls
-```
-
+#### Databases
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,sqlite&theme=dark" />
   &nbsp;
   <img src="https://img.shields.io/badge/Neon-00E5CC?style=for-the-badge&logo=neon&logoColor=black" height="48" />
 </p>
 
-```sh
-hashwin@github:~/Databases$ cd ../AI-ML
-hashwin@github:~/AI-ML$ ls
-```
-
+#### AI / ML
 <p>
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" />
   &nbsp;
@@ -100,11 +80,7 @@ hashwin@github:~/AI-ML$ ls
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="48" />
 </p>
 
-```sh
-hashwin@github:~/AI-ML$ cd ../AI-LLM
-hashwin@github:~/AI-LLM$ ls
-```
-
+#### AI / LLM
 <p>
   <img src="https://img.shields.io/badge/LLM%20APIs-412991?style=for-the-badge&logo=openai&logoColor=white" height="48" />
   <img src="https://img.shields.io/badge/RAG-FF4B4B?style=for-the-badge&logo=amazondynamodb&logoColor=white" height="48" />
@@ -114,21 +90,12 @@ hashwin@github:~/AI-LLM$ ls
   <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white" height="48" />
 </p>
 
-```sh
-hashwin@github:~/AI-LLM$ cd ../Tools
-hashwin@github:~/Tools$ ls
-```
-
+#### Tools
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman&theme=dark" />
   &nbsp;
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" height="48" />
 </p>
-
-```sh
-hashwin@github:~/Tools$ cd ..
-hashwin@github:~$ ./connect.sh
-```
 
 <br>
 
