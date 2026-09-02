@@ -1,17 +1,3 @@
-<div align="center">
-
-![banner](./assets/banner.png)
-
-<br>
-
-### *Build · Break · Understand*
-
-</div>
-
-<br>
-
----
-
 ## About Me
 
 <table>
@@ -40,6 +26,20 @@ class Hashwin:
 </td>
 </tr>
 </table>
+
+<br>
+
+---
+
+<div align="center">
+
+![banner](./assets/banner.png)
+
+<br>
+
+### *Build · Break · Understand*
+
+</div>
 
 <br>
 
