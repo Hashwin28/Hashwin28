@@ -35,7 +35,7 @@ class Hashwin:
 </td>
 <td valign="top" align="center" width="40%">
 
-<!-- About Me side image — add here later -->
+<img src="./assets/about-side.png" width="300" />
 
 </td>
 </tr>
