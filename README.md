@@ -114,9 +114,11 @@ I enjoy building things that solve actual problems, especially where AI and soft
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hashwin28)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hashwin-m-45027b388)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hashwinmuthukumar@gmail.com)
+<a href="https://github.com/Hashwin28"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="50" height="50" alt="GitHub" /></a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/hashwin-m-45027b388"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="50" height="50" alt="LinkedIn" /></a>
+&nbsp;&nbsp;
+<a href="mailto:hashwinmuthukumar@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="50" height="50" alt="Email" /></a>
 
 <!-- Portfolio badge — add here later -->
 
