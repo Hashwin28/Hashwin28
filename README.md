@@ -4,7 +4,7 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=F7931E&center=true&vCenter=true&width=600&lines=Turning+ideas+into+intelligent+systems.)](https://git.io/typing-svg)
+### *Build · Break · Understand*
 
 </div>
 
