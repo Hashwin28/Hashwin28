@@ -32,7 +32,9 @@ class Hashwin:
     currently  = "exploring ML, AI, backend"
 
     def how_i_work(self):
-        return ("build → break → understand")
+        return ("I learn by building — "
+                "understand the basics, "
+                "experiment, then make it work")
 ```
 
 </td>
