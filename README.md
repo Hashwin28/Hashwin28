@@ -47,54 +47,24 @@ class Hashwin:
 
 ## Stack & Tools
 
-#### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=py,cpp,java&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=py,cpp,java,html,css,fastapi,flask,mongodb,sqlite&theme=dark&perline=9" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,git,github,docker,vscode,postman&theme=dark&perline=9" />
 </p>
-
-#### Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css&theme=dark" />
-</p>
-
-#### Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi,flask&theme=dark" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/REST%20APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white" height="48" />
-</p>
-
-#### Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,sqlite&theme=dark" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Neon-00E5CC?style=for-the-badge&logo=neon&logoColor=black" height="48" />
-</p>
-
-#### AI / ML
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/XGBoost-337ACC?style=for-the-badge&logo=xgboost&logoColor=white" height="48" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="48" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="48" />
-</p>
-
-#### AI / LLM
-<p>
-  <img src="https://img.shields.io/badge/LLM%20APIs-412991?style=for-the-badge&logo=openai&logoColor=white" height="48" />
-  <img src="https://img.shields.io/badge/RAG-FF4B4B?style=for-the-badge&logo=amazondynamodb&logoColor=white" height="48" />
-  <img src="https://img.shields.io/badge/Embeddings-6C47FF?style=for-the-badge&logo=pinecone&logoColor=white" height="48" />
-  <img src="https://img.shields.io/badge/Vector%20DB-00B4D8?style=for-the-badge&logo=weaviate&logoColor=white" height="48" />
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" height="48" />
-  <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white" height="48" />
-</p>
-
-#### Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman&theme=dark" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" height="48" />
+  <img src="https://img.shields.io/badge/REST%20APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/Neon-00E5CC?style=for-the-badge&logo=neon&logoColor=black" height="28" />
+  <img src="https://img.shields.io/badge/XGBoost-337ACC?style=for-the-badge&logo=xgboost&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/LLM%20APIs-412991?style=for-the-badge&logo=openai&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/RAG-FF4B4B?style=for-the-badge&logo=amazondynamodb&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/Embeddings-6C47FF?style=for-the-badge&logo=pinecone&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/Vector%20DB-00B4D8?style=for-the-badge&logo=weaviate&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white" height="28" />
 </p>
 
 <br>
