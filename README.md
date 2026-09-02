@@ -52,71 +52,78 @@ hashwin@github:~$ cd Languages
 hashwin@github:~/Languages$ ls
 ```
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=py,cpp,java&theme=dark" />
+</p>
 
 ```sh
 hashwin@github:~/Languages$ cd ../Frontend
 hashwin@github:~/Frontend$ ls
 ```
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css&theme=dark" />
+</p>
 
 ```sh
 hashwin@github:~/Frontend$ cd ../Backend
 hashwin@github:~/Backend$ ls
 ```
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,flask&theme=dark" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/REST%20APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white" height="48" />
+</p>
 
 ```sh
 hashwin@github:~/Backend$ cd ../Databases
 hashwin@github:~/Databases$ ls
 ```
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Neon](https://img.shields.io/badge/Neon-00E5CC?style=flat-square&logo=neon&logoColor=black)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,sqlite&theme=dark" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Neon-00E5CC?style=for-the-badge&logo=neon&logoColor=black" height="48" />
+</p>
 
 ```sh
 hashwin@github:~/Databases$ cd ../AI-ML
 hashwin@github:~/AI-ML$ ls
 ```
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-337ACC?style=flat-square&logo=xgboost&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/XGBoost-337ACC?style=for-the-badge&logo=xgboost&logoColor=white" height="48" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="48" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="48" />
+</p>
 
 ```sh
 hashwin@github:~/AI-ML$ cd ../AI-LLM
 hashwin@github:~/AI-LLM$ ls
 ```
 
-![LLM APIs](https://img.shields.io/badge/LLM%20APIs-412991?style=flat-square&logo=openai&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-FF4B4B?style=flat-square&logo=amazondynamodb&logoColor=white)
-![Embeddings](https://img.shields.io/badge/Embeddings-6C47FF?style=flat-square&logo=pinecone&logoColor=white)
-![Vector DB](https://img.shields.io/badge/Vector%20DB-00B4D8?style=flat-square&logo=weaviate&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=groq&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/LLM%20APIs-412991?style=for-the-badge&logo=openai&logoColor=white" height="48" />
+  <img src="https://img.shields.io/badge/RAG-FF4B4B?style=for-the-badge&logo=amazondynamodb&logoColor=white" height="48" />
+  <img src="https://img.shields.io/badge/Embeddings-6C47FF?style=for-the-badge&logo=pinecone&logoColor=white" height="48" />
+  <img src="https://img.shields.io/badge/Vector%20DB-00B4D8?style=for-the-badge&logo=weaviate&logoColor=white" height="48" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" height="48" />
+  <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white" height="48" />
+</p>
 
 ```sh
 hashwin@github:~/AI-LLM$ cd ../Tools
 hashwin@github:~/Tools$ ls
 ```
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman&theme=dark" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" height="48" />
+</p>
 
 ```sh
 hashwin@github:~/Tools$ cd ..
