@@ -21,21 +21,21 @@
 ```python
 class Hashwin:
     role       = "AI & Data Science Student"
-    but_mostly = "I build with AI"
+    but_mostly = "I build things with AI"
     #            Python · ML/DL · data · full-stack
-    also        = "I ship projects when an idea won't let me rest"
-    currently   = "going deeper on ML, DL, AI applications & backend engineering"
+    also       = "I like turning random ideas into working projects"
+    currently  = "exploring ML, AI applications, backend & software engineering"
 
     def how_i_work(self):
-        return ("curious by nature — I'd "
-                "rather understand a thing "
-                "than just use it")
+        return ("I learn by building — "
+                "understand the basics, "
+                "experiment, then make it work")
 ```
 
 </td>
 <td valign="top" align="center" width="50%">
 
-<img src="./assets/about-side.png" width="300" />
+<img src="./assets/about-side.png" width="100%" />
 
 </td>
 </tr>
