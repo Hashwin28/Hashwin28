@@ -134,9 +134,6 @@ hashwin@github:~$ ./connect.sh
 
 ![quote](./assets/quote-banner.png)
 
-> **"நீ யாராக விரும்புகிறாயோ அதுவாகு"**
-> *You choose what to become.*
-
 </div>
 
 <br>
