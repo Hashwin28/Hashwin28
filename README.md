@@ -16,26 +16,24 @@
 
 <table>
 <tr>
-<td valign="top" width="30%">
+<td valign="top" align="center" width="65%">
+
+<img src="./assets/about-side.png" width="100%" />
+
+</td>
+<td valign="top" width="35%">
 
 ```python
 class Hashwin:
     role       = "AI & Data Science Student"
     but_mostly = "I build things with AI"
-    #            Python · ML/DL · data · full-stack
-    also       = "I like turning random ideas into working projects"
-    currently  = "exploring ML, AI applications, backend & software engineering"
+    #            Python · ML/DL · data
+    also       = "random ideas → working projects"
+    currently  = "exploring ML, AI, backend"
 
     def how_i_work(self):
-        return ("I learn by building — "
-                "understand the basics, "
-                "experiment, then make it work")
+        return ("build → break → understand")
 ```
-
-</td>
-<td valign="top" align="center" width="70%">
-
-<img src="./assets/about-side.png" width="100%" />
 
 </td>
 </tr>
